@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license                = { :type => "Attribution License", :file => "LICENSE" }
   s.source                 = { :git => "https://github.com/tkis/SevenSwitch", :tag => "2.1" }
   s.authors                = { 'Ben Vogelzang' => 'bvogelzang@breuer.com' }
-  s.ios.deployment_target  = "10.0"
+  s.ios.deployment_target  = "9.0"
   s.osx.deployment_target  = "10.9"
   s.tvos.deployment_target = "9.0"
   s.source_files           = "Source/*.swift"
