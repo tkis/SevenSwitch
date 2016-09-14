@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/tkis/SevenSwitch.git",
-    "tag": "2.0"
+    "tag": "2.1"
   },
   "platforms": {
     "ios": "10.0"
